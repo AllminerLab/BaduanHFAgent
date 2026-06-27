@@ -1,0 +1,17 @@
+{
+  "_comment_suffix": "suffix 用于区分不同底座/任务的处方输出目录；例如 suffix=mock 会写到 data/interim/prescription_mock",
+  "_comment_json_parse_retries": "模型返回不合法 JSON 时，最多额外请求模型重新输出合法 JSON 的次数；这是格式修复，不是 Tool5 护栏重生成",
+  "_comment_max_regenerations": "Tool5 校验要求 regenerate 时，最多额外重生成几次；2 表示初次生成 + 最多 2 次重生成",
+  "provider": "mock",
+  "suffix": "mock",
+  "base_url": "https://api.openai.com/v1",
+  "api_key_env": "OPENAI_API_KEY",
+  "api_key": "",
+  "model": "mock-baduanjin-prescriber",
+  "temperature": 0.2,
+  "max_tokens": 4096,
+  "timeout_seconds": 180,
+  "json_parse_retries": 2,
+  "max_regenerations": 3,
+  "extra_headers": {}
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "cpet_grounding",
+    "triggers": [
+      "has_cpet"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / Exercise training in heart failure- from theory to practice.docx",
+    "text": "心肺运动试验（CPET）可评估患者心肺功能储备与运动耐量，常用于确定无氧阈值（AT）等参数以指导个体化运动强度设定；在缺乏CPET条件时，6分钟步行试验可作为亚极量运动能力的替代评估手段。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第188段；慢性心力衰竭心脏康复中国专家共识.docx · 第117段"
+  },
+  {
+    "id": "six_mwd_grounding",
+    "triggers": [
+      "has_6mwd"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / 六分钟步行试验临床规范应用中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "六分钟步行距离（6MWD）是评估运动耐量的常用指标，其降低提示运动能力下降，且能独立预测心衰患者预后；ACC/AHA指南依据6MWD进行心血管疾病危险分层：低危＞450 m，中危300～450 m，高危＜300 m，极高危＜150 m。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第69段"
+  },
+  {
+    "id": "borg_grounding",
+    "triggers": [
+      "resolved_borg"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 心肺运动试验的临床应用.docx / 慢性心力衰竭心脏康复中国专家共识.docx",
+    "text": "Borg 自觉疲劳评分量表（RPE，含0~10级或6~20级版本）用于评估运动中的呼吸困难和疲劳程度，帮助判断患者对运动负荷的耐受性；在心肺功能测试及康复中，常结合心率、血压等指标指导运动强度。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第127段; 心肺运动试验的临床应用.docx · 第4018段; 心肺运动试验的临床应用.docx · 第1881段"
+  },
+  {
+    "id": "data_incomplete_grounding",
+    "triggers": [
+      "data_incomplete"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / 六分钟步行试验临床规范应用中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "在运动评估与康复中，危险分层有助于决定是否需要心电、血压及血氧监测；高风险患者常需监护，而低风险者可能无需。运动前应评估病情、用药、生命体征及穿戴设备，并配备急救设施。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第170段;六分钟步行试验临床规范应用中国专家共识.docx · 第118段;心肺运动试验的临床应用.docx · 第2418段;六分钟步行试验临床规范应用中国专家共识.docx · 第124段;心肺运动试验的临床应用.docx · 第3040段"
+  },
+  {
+    "id": "low_function_grounding",
+    "triggers": [
+      "function_low"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / 心肺运动试验的临床应用.docx / Exercise training in heart failure- from theory to practice.docx",
+    "text": "对于体弱或病情稳定的慢性心力衰竭患者，运动训练可从低强度开始，并根据个体情况逐步调整；初始阶段建议监测心率和血压，确保安全。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第149段; 慢性心力衰竭心脏康复中国专家共识.docx · 第157段; 心肺运动试验的临床应用.docx · 第1826段; 心肺运动试验的临床应用.docx · 第2492段"
+  },
+  {
+    "id": "mid_function_grounding",
+    "triggers": [
+      "function_mid"
+    ],
+    "source": "心肺运动试验的临床应用.docx / 慢性心力衰竭心脏康复中国专家共识.docx / 六分钟步行试验临床规范应用中国专家共识.docx",
+    "text": "中等强度运动通常指自我感觉较轻松、可边讲话边运动的状态；推荐用于多数患者，但初始训练的体弱者可从低强度开始，具体强度应根据个体情况和疾病危险分层评估确定，并在训练中监测心率或Borg RPE等指标。",
+    "source_locator": "心肺运动试验的临床应用.docx · 第3796段；心肺运动试验的临床应用.docx · 第1826段；慢性心力衰竭心脏康复中国专家共识.docx · 第241段"
+  },
+  {
+    "id": "high_function_grounding",
+    "triggers": [
+      "function_high"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "医学实践中强调运动处方的个体化制定，可依据6MWD、心率储备（HRR）、Borg RPE或心肺运动试验等指标进行评估与调整，以匹配患者的功能状态和耐受能力。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第188段;慢性心力衰竭心脏康复中国专家共识.docx · 第114段;慢性心力衰竭心脏康复中国专家共识.docx · 第241段;心肺运动试验的临床应用.docx · 第583段"
+  },
+  {
+    "id": "beta_blocker_grounding",
+    "triggers": [
+      "beta_blocker"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "β受体阻滞剂可减弱运动时心率增快反应，影响心率与摄氧量的关系，因此以心率为标准制定运动处方时需谨慎，一般不推荐使用峰值心率作为运动强度的参照。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第114段；心肺运动试验的临床应用.docx · 第249段"
+  },
+  {
+    "id": "ventilatory_grounding",
+    "triggers": [
+      "copd",
+      "dyspnea_high",
+      "high_ve_vco2"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / Exercise training in heart failure- from theory to practice.docx",
+    "text": "呼吸困难常见于慢性心肺疾病患者，可能与呼吸肌功能减退、低灌注导致的代谢异常及运动耐量下降相关；评估时常结合主观量表（如Borg评分）与客观指标（如6分钟步行距离、VE/VCO2斜率）。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第127段；慢性心力衰竭心脏康复中国专家共识.docx · 第72段；慢性心力衰竭心脏康复中国专家共识.docx · 第165段；六分钟步行试验临床规范应用中国专家共识.docx · 第13段；慢性心力衰竭心脏康复中国专家共识.docx · 第169段"
+  },
+  {
+    "id": "rhythm_grounding",
+    "triggers": [
+      "arrhythmia"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / 第146段",
+    "text": "未控制的心律失常（如频发室性早搏、短阵室性心动过速、房颤等）可能因运动而加剧病情，尤其在合并基础心脏病或心力衰竭时，需谨慎评估运动安全性；部分患者可通过达标运动量获益，如房颤患者死亡风险可降低。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第132段;慢性心力衰竭心脏康复中国专家共识.docx · 第141段;第146段;第232段;心肺运动试验的临床应用.docx · 第2509段;第2536段;第2543段"
+  },
+  {
+    "id": "device_sternal_grounding",
+    "triggers": [
+      "device_implant",
+      "post_cabg"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / Exercise training in heart failure- from theory to practice.docx / 心肺运动试验的临床应用.docx",
+    "text": "对于植入ICD或CRT的患者，运动康复可提高运动耐力、生活质量和心脏功能，但需在运动前进行症状限制性心肺运动试验，以评估变时性反应、心律失常风险及是否接近ICD放电阈值，并在医学监护下个体化实施。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第231段; 慢性心力衰竭心脏康复中国专家共识.docx · 第232段; Exercise training in heart failure- from theory to practice.docx · 第201段"
+  },
+  {
+    "id": "severe_valvular_grounding",
+    "triggers": [
+      "severe_valvular"
+    ],
+    "source": "心肺运动试验的临床应用.docx",
+    "text": "严重瓣膜病患者运动时心率增加快于氧耗上升，在较低功率下即可达最大心率；主动脉瓣狭窄者常伴左心室肥大和心功能减退，体力活动明显受限，运动强度应从低强度逐步递增至中强度。",
+    "source_locator": "心肺运动试验的临床应用.docx · 第837段;心肺运动试验的临床应用.docx · 第3432段"
+  },
+  {
+    "id": "cad_af_grounding",
+    "triggers": [
+      "cad_or_af"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "冠心病患者可因心肌缺血导致心肌电活动不稳定，表现为运动诱发的心绞痛、ST段改变或QT间期延长；低强度运动（<2 METs或<50 W）即出现明显缺血，提示病情较重。心脏康复中，6分钟步行距离改善25米可作为功能获益的参考目标。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第184段；慢性心力衰竭心脏康复中国专家共识.docx · 第86段；心肺运动试验的临床应用.docx · 第1062段；心肺运动试验的临床应用.docx · 第1065段"
+  },
+  {
+    "id": "hemodynamic_burden_grounding",
+    "triggers": [
+      "high_bnp",
+      "high_peak_sbp",
+      "high_rest_sbp",
+      "high_rest_hr",
+      "low_hrr",
+      "low_lvef",
+      "nyha_iii"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx",
+    "text": "在射血分数降低的心力衰竭（HFrEF）患者中，六分钟步行距离（6MWD）与死亡率、非致命性心血管事件及心衰住院风险密切相关；6MWD 提高30~50米可显著改善NYHA心功能分级和生活质量。运动训练需个体化，并结合客观指标如心率储备（%HRR）进行强度监测。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第166段;六分钟步行试验临床规范应用中国专家共识.docx · 第181段;慢性心力衰竭心脏康复中国专家共识.docx · 第114段"
+  },
+  {
+    "id": "fatigue_grounding",
+    "triggers": [
+      "fatigue_high"
+    ],
+    "source": "六分钟步行试验临床规范应用中国专家共识.docx / 慢性心力衰竭心脏康复中国专家共识.docx / 心肺运动试验的临床应用.docx",
+    "text": "在运动训练中，应结合患者的呼吸困难和疲劳程度控制强度，常用 Borg 自觉疲劳评分量表（RPE）评估主观用力程度，推荐范围多为 RPE 11～14（6～20 级表）或 5～6（0～10 级表），并可结合心率、血压、SpO₂ 等指标综合判断。",
+    "source_locator": "六分钟步行试验临床规范应用中国专家共识.docx · 第127段；慢性心力衰竭心脏康复中国专家共识.docx · 第117段；心肺运动试验的临床应用.docx · 第1878段"
+  },
+  {
+    "id": "adherence_grounding",
+    "triggers": [
+      "low_self_efficacy"
+    ],
+    "source": "慢性心力衰竭心脏康复中国专家共识.docx / Exercise training in heart failure- from theory to practice.docx / 心肺运动试验的临床应用.docx",
+    "text": "慢性心力衰竭患者的心脏康复涉及对服药依从性、心理状态及生活质量的综合评估与支持，健康教育涵盖疾病认知、药物使用、运动治疗及心理恢复等内容。",
+    "source_locator": "慢性心力衰竭心脏康复中国专家共识.docx · 第282段; 慢性心力衰竭心脏康复中国专家共识.docx · 第42段; 慢性心力衰竭心脏康复中国专家共识.docx · 第76段"
+  }
+]
